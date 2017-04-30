@@ -1,4 +1,18 @@
 body {
-  background-color: #50E3C2; }
+  background-color: #50E3C2;
+  background-image: url("../img/back-tile.png"); }
+
+.main-container {
+  display: flex;
+  justify-content: center; }
+
+.main-logo {
+  background-image: url("../img/Logo.png");
+  width: 45%;
+  height: auto;
+  background-position: center;
+  background-size: cover;
+  padding-top: 27.05%;
+  margin-top: 10vh; }
 
 /*# sourceMappingURL=application.css.map */
